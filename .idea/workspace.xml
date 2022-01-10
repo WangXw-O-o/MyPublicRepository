@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc09627b-f857-484a-89ba-d02a66e490b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/META-INF/TestProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/demoTest/DemoMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/demoTest/demo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/demoTest/demo/timer/TimerPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/demoTest/demo/timer/TimerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/test/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/test/Test$One.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestProject/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoTest/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoTest/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoTest/demo/timer/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestInterface.java" afterDir="false" />
+    </list>
+    <list id="4e40f73f-70ac-40aa-a77a-940b82a417d8" name="Revert &quot;test&quot;" comment="Revert &quot;test&quot;&#10;&#10;This reverts commit 466bd5a6" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\work\Idea\IJWorkSpace\TestProject\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zJk5bYxLRFsRWeUudaJzqdl8Rl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.DemoMain">
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demoTest.DemoMain" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoTest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demoTest.demo.timer.TimerTest" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoTest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoMain" />
+        <item itemvalue="Application.TimerTest" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc09627b-f857-484a-89ba-d02a66e490b0" name="Default Changelist" comment="" />
+      <created>1633873395882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633873395882</updated>
+      <workItem from="1633873398259" duration="2040000" />
+      <workItem from="1634049674277" duration="1173000" />
+      <workItem from="1637762884359" duration="3177000" />
+      <workItem from="1638370757783" duration="723000" />
+      <workItem from="1639407241148" duration="1198000" />
+      <workItem from="1639491213170" duration="3672000" />
+      <workItem from="1639663937632" duration="2798000" />
+      <workItem from="1640272773658" duration="1974000" />
+      <workItem from="1640614162397" duration="901000" />
+      <workItem from="1641826669115" duration="1276000" />
+      <workItem from="1641827999057" duration="99000" />
+      <workItem from="1641828212536" duration="99000" />
+      <workItem from="1641828356362" duration="239000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1641827708704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641827708704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Notifications" timestamp="1639663968175">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1639663968175" />
+    <state x="574" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1640614204524">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1640614204524" />
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1634049768851" />
+    <state x="614" y="298" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1641828013417">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="614" y="298" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.816@0.0.1536.816" timestamp="1641828013417" />
+    <state x="368" y="0" key="CommitChangelistDialog2" timestamp="1641827942617">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="368" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1641827942617" />
+    <state x="549" y="169" key="FileChooserDialogImpl" timestamp="1641828238827">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="169" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641828238827" />
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1633873451612" />
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1634053316628" />
+    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1634053316628" />
+    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1634053316628" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1634053316628" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1639495753870">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1639495753870" />
+    <state x="540" y="131" key="RollbackChangesDialog" timestamp="1641828296325">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="540" y="131" key="RollbackChangesDialog/0.0.1536.816@0.0.1536.816" timestamp="1641828296325" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1641828088265">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1641828088265" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1641827910864">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1641827910864" />
+    <state x="93" y="93" width="1350" height="630" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1641828100144">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1641828100144" />
+  </component>
+</project>
