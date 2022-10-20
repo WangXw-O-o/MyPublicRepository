@@ -1,4 +1,4 @@
-package net.web;
+package core.java.net.web;
 
 import java.io.IOException;
 import java.io.InputStream;

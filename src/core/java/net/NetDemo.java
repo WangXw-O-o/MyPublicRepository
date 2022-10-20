@@ -1,4 +1,4 @@
-package net;
+package core.java.net;
 
 import java.io.IOException;
 import java.net.*;
